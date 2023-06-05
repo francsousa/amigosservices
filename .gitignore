@@ -6,6 +6,7 @@ build/
 !**/src/test/**/build/
 customer/target
 fraud/target
+eureka-server/target
 
 ### STS ###
 .apt_generated
